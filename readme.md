@@ -38,7 +38,7 @@ All the programming is contained within a single jupyter notebook,
 
 ## Project Details
 The technical details and code can be found in the [jupyter notebook](./PGA_Analysis.ipynb),
-or the reported discoveries can be found in a [Medium post]().
+or the reported discoveries can be found in a [Medium post](https://jborman1225.medium.com/how-can-pga-tour-players-improve-their-game-7fc00dcf8ac0).
 
 ## Licensing and Acknowledgements
 Credit must be given to [Jong](https://www.kaggle.com/jmpark746) on Kaggle for his
